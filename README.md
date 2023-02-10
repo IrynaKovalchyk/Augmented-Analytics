@@ -10,9 +10,9 @@ Breaking down Augmented Analytics methodology on example of the data cleaning pr
 1. <a href="https://www.youtube.com/watch?v=kyFrQRPGpAM" target="_blank">How Augmented Analytics Enhances Decision-Making</a>
 2. <a href="https://www.youtube.com/watch?v=ascreEpm33A&t=0s" target="_blank">How Augmented Analytics Tools Will Change The Way We Work</a>
 ### Articles
-1. https://www.gartner.com/en/documents/3773164
-2. https://www.adverity.com/augmented-analytics
-3. https://www.mdpi.com/1424-8220/22/20/8071
+1. <a href="https://www.gartner.com/en/documents/3773164" target="_blank">Gartner definition of AA</a> 
+2. <a href="https://www.adverity.com/augmented-analytics" target="_blank">Overview on AA</a>  
+3. <a href="https://www.mdpi.com/1424-8220/22/20/8071"  target="_blank">Augmented Analytics Driven by AI</a>
 4. https://www.qlik.com/us/augmented-analytics
 5. https://www.sap.com/insights/what-is-augmented-analytics.html
 6. https://powerbi.microsoft.com/en-us/what-is-augmented-data-preparation/
