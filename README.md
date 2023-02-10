@@ -7,8 +7,8 @@ Breaking down Augmented Analytics methodology on example of the data cleaning pr
 
 ## Useful links 
 ### Videos:
-1. How Augmented Analytics Enhances Decision-Making: https://www.youtube.com/watch?v=kyFrQRPGpAM
-2. How Augmented Analytics Tools Will Change The Way We Work: https://www.youtube.com/watch?v=ascreEpm33A&t=0s
+1. <a href="https://www.youtube.com/watch?v=kyFrQRPGpAM" target="_blank">How Augmented Analytics Enhances Decision-Making</a>
+2. <a href="https://www.youtube.com/watch?v=ascreEpm33A&t=0s" target="_blank">How Augmented Analytics Tools Will Change The Way We Work</a>
 ### Articles
 1. https://www.gartner.com/en/documents/3773164
 2. https://www.adverity.com/augmented-analytics
