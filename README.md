@@ -13,7 +13,7 @@ Breaking down Augmented Analytics(AA) methodology on example of the data cleanin
 1. <a href="https://www.gartner.com/en/documents/3773164" target="_blank">Gartner definition of AA</a> 
 2. <a href="https://cedar.princeton.edu/sites/g/files/toruqf1076/files/media/gartner_bi_comparison_2018.pdf" target="_blank">Gartner paper: BI Platforms</a> 
 3. <a href="https://www.adverity.com/augmented-analytics" target="_blank">Overview on AA. How it can transform your marketing</a>
-4. <a href="https://www.mdpi.com/1424-8220/22/20/8071"  target="_blank">AA Driven by AI</a>
+4. <a href="https://www.mdpi.com/1424-8220/22/20/8071"  target="_blank">Research paper: AA Driven by AI</a>
 5. <a href="https://www.qlik.com/us/augmented-analytics" target="_blank">Qlik: What is AA?</a>
 6. <a href="https://www.sap.com/insights/what-is-augmented-analytics.html"  target="_blank">SAP: Intro to the AA</a>
 7. <a href="https://powerbi.microsoft.com/en-us/what-is-augmented-data-preparation/" target="_blank">PowerBi: What is augmented data preparation?</a>
