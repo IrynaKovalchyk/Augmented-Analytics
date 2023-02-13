@@ -1,5 +1,6 @@
 # Augmented Analytics
-Breaking down Augmented Analytics(AA) methodology on example of the data cleaning process.  
+Breaking down Augmented Analytics(AA) methodology on example of the data cleaning process. To get yourself familiar with main concept, you can read <i>dyvenia blog</i>  or check out some of the [Useful-links](https://github.com/IrynaKovalchyk/Augmented-Analytics#useful-links).
+
 
 ## Exercises 
 
