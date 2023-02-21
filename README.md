@@ -1,10 +1,18 @@
 # Augmented Analytics
 Breaking down Augmented Analytics(AA) methodology on example of the data cleaning process. To get yourself familiar with main concept, you can read [dyvenia blog](https://dyvenia.com/blog/augmented-analytics)  or check out some of the [Useful-links](https://github.com/IrynaKovalchyk/Augmented-Analytics#useful-links).
 
+To make yourself more familiar with the topic, before going into exercises and/or modifying code on the notebooks, check out the summary up [presentation](https://github.com/IrynaKovalchyk/Augmented-Analytics/blob/main/Augmented%20analysis.pdf)
+
+There are 3 notebooks that you can manipulate and work with. They're different, also, it'd be needed to approach them differently. All of them start with a brief description and plan of what is going to be done to each notebook.
+1. [Custom methods notebook](https://github.com/IrynaKovalchyk/Augmented-Analytics/blob/main/custom.ipynb)has a lot of potential for changes, modification, and improvement. The main idea of it was to create an example of the AA approach on the various level of coding, starting from standard Python functions, following up with the ideologically ML approaches, and at the end with actual one-liners for ML methods. 
+2. The notebook based on [Autoclean](https://github.com/IrynaKovalchyk/Augmented-Analytics/blob/main/Autoclean.ipynb) library is a playground for approaching the same data as in [Custom methods notebook](https://github.com/IrynaKovalchyk/Augmented-Analytics/blob/main/custom.ipynb) with the help of it. Showing use cases of its methods in the AA approach.
+3. The [DataClean](https://github.com/IrynaKovalchyk/Augmented-Analytics/blob/main/DataClean.ipynb) notebook is based on the same called library with the same aim as the [Autoclean notebook](https://github.com/IrynaKovalchyk/Augmented-Analytics/blob/main/Autoclean.ipynb) 
+
 
 ## Exercises 
 
 ## Guidelines 
+
 
 ## Useful links 
 ### Videos:
