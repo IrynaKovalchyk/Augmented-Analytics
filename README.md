@@ -11,6 +11,32 @@ There are 3 notebooks that you can manipulate and work with. They're different, 
 
 ## Exercises 
 
+Exercises will be rated on 0-7 scale, where each number represents:
+| Scale | Description                                                                               |
+|-------|-------------------------------------------------------------------------------------------|
+| 0     | Never used                                                                                |
+| 1     | Used limited times _I can copy and paste, but not create by myself_                       |
+| 2     | Basic understanding _I can complete very simple use cases/ adapt others work to my needs_ |
+| 3     | Used on basic level as part of role _I can create basic end-to-end by myself_             |
+| 4     | Used regularly in medium complexity _I can work comfortably and support beginners_        |
+| 5     | Used for advanced cases on a daily basis                                                  |
+| 6     | Able to teach                                                                             |
+| 7     | Mastered, able to teach and coach                                                         |
+
+**0-2 Scale.** </br>
+  1. Read the  [dyvenia blog article on AA ](https://dyvenia.com/blog/augmented-analytics) </br>
+  2. Get yourself familiar with some of the materials from [Useful-links](https://github.com/IrynaKovalchyk/Augmented-Analytics#useful-links). </br>
+  3. Clone the [repo](https://github.com/IrynaKovalchyk/Augmented-Analytics)</br>
+  4. Run code of the notebook as well as get familiar with main strategies, which were used there </br>
+
+**3-4 Scale.**</br>
+  1. Clone the [repo](https://github.com/IrynaKovalchyk/Augmented-Analytics)</br>
+  2. Run code of the notebook as well as get familiar with main strategies, which were used there </br>
+  3. Check ou the data source an chalnge to it 
+
+**5-6 Scale.**</br>
+**7 Scale.**</br>
+  1. Implement best paracies of code
 ## Guidelines 
 
 
