@@ -37,6 +37,7 @@ Exercises will be rated on 0-7 scale, where each number represents:
 **5-6 Scale.**</br>
 **7 Scale.**</br>
   1. Implement best paracies of code
+  2. Geo data. Use API to recreate missing data
 ## Guidelines 
 
 
