@@ -47,6 +47,8 @@ Exercises will be rated on 0-7 scale, where each number represents:
   5. Try to use Linear Regression for cleaning some data  
   6. Try to use Logistic Regression for cleaning some data 
   7. Comper what worrks better on the data set Linear Regression or Logistic Regression
+
+
 **7 Scale.**</br>
   1. Implement best paracies of code
   2. Geo data. Handelling 'lat','long' missing data by useing API 
