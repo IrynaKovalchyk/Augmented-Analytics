@@ -24,42 +24,42 @@ Exercises will be rated on 0-7 scale, where each number represents:
 | 7     | Mastered, able to teach and coach                                                         |
 
 **0-2 Scale.** </br>
-  1. Read the  [dyvenia blog article on AA ](https://dyvenia.com/blog/augmented-analytics) </br>
-  2. Get yourself familiar with some of the materials from [Useful-links](https://github.com/IrynaKovalchyk/Augmented-Analytics#useful-links). </br>
-  3. Clone the [repo](https://github.com/IrynaKovalchyk/Augmented-Analytics)</br>
-  4. Run code of the notebook as well as get familiar with main strategies, which were used there </br>
+  1. Read the  [dyvenia blog article on AA ](https://dyvenia.com/blog/augmented-analytics); </br>
+  2. Get yourself familiar with some of the materials from [Useful-links](https://github.com/IrynaKovalchyk/Augmented-Analytics#useful-links); </br>
+  3. Clone the [repo](https://github.com/IrynaKovalchyk/Augmented-Analytics);</br>
+  4. Run code of the notebook, as well as get yourself familiar with main strategies, which were used there; </br>
 
 **3-4 Scale.**</br>
-  1. Clone the [repo](https://github.com/IrynaKovalchyk/Augmented-Analytics)</br>
-  2. Run code of the notebook as well as get familiar with main strategies, which were used there </br>
-  3. Check out the data source and chalnge to it 
-  4. Descover more ML methods, for instance you can check them out at the [The top 10 ML algorithms you should know](https://medium.com/@techynilesh/the-top-10-machine-learning-algorithms-you-should-know-7c97222e08d2)
-  5. Try out [.loc() and .iloc() functions](https://sparkbyexamples.com/pandas/pandas-difference-between-loc-vs-iloc-in-dataframe/) to deal with missing data
-  6. Build dictionary based on 'neighbourhood', 'neighbourhood group', then try to find correlation between 'price' and 'neighbourhood'
-  7. How to handell missing data in 'host_identity_verified' ? For instance, make one more lable for missing data 
-  8. Handdel data types, special symbols
+  1. Clone the [repo](https://github.com/IrynaKovalchyk/Augmented-Analytics);</br>
+  2. Run code of the notebook as well as get familiar with main strategies, which were used there; </br>
+  3. Check out the data source and chalnge to it; 
+  4. Discover more ML methods for instance, you can check them out at [The top 10 ML algorithms you should know](https://medium.com/@techynilesh/the-top-10-machine-learning-algorithms-you-should-know-7c97222e08d2);
+  5. Try out [.loc() and .iloc() functions](https://sparkbyexamples.com/pandas/pandas-difference-between-loc-vs-iloc-in-dataframe/) to deal with missing data;
+  6. Build a dictionary based on 'neighbourhood', 'neighbourhood group', then try to find a correlation between 'price' and 'neighbourhood';
+  7. How to handle missing data in 'host_identity_verified'? For instance, make one more label for missing data;
+  8. Handdel data types, special symbols;
 
 **5-6 Scale.**</br>
-  1. Whata categories will be influenced by 'instant_bookable' ? What about 'cancellation_policy'
-  2. Transform 'last review' to the date type. What is the fresiest and the oldies review ? How it will correlate with the 'number of reviews'
-  3. Handdel missing data in 'last review', 'number of reviews'. Hint: sometimes in a way to normalization some of the data might be droped, however it's not a case all the time 
-  4. Get insides from 'number of reviews',	'last review',	'reviews per month',	'review rate number'
-  5. Try to use Linear Regression for cleaning some data  
-  6. Try to use Logistic Regression for cleaning some data 
-  7. Comper what worrks better on the data set Linear Regression or Logistic Regression
+  1. What categories will be influenced by 'instant_bookable'? What about 'cancellation_policy'?
+  2. Transform 'last review' to the date type. What are the freshest and the oldies review? How will they correlate with the 'number of reviews'?
+  3. Handdel missing data in 'last review', 'number of reviews'. Hint: sometimes in a way to normalize some of the data, it might be dropped, however, it's not the case all the time;
+  4. Get insides from 'number of reviews', 'last review', 'reviews per month', and 'review rate number';
+  5. Try to use Linear Regression to clean some of the data;
+  6. Try to use Logistic Regression to clean some of the data;
+  7. Comper what works better on the data set Linear Regression or Logistic Regression;
 
 
 **7 Scale.**</br>
-  1. Implement best paracies of code
-  2. Geo data. Handelling 'lat','long' missing data by useing API 
-  3. Use NLP to parth key words from 'house_rules'
-  4. What is the most common key word and the most rare one ?
-  5. Is it possible to handell 'house_rules' by usige of the most common/rare key words ?
-  6. Clusterize data set 
-  7. Try to use  Decision Trees and Support Vectors
+  1. Implement best practices of code;
+  2. Geo data. Handling 'lat' and 'long' missing data by using API;
+  3. Use NLP to get keywords from 'house_rules';
+  4. What are the most common keyword and the rarest ones?
+  5. Is it possible to handle 'house_rules' by the usage of the most common/rare keyword?
+  6. Clusterize data set;
+  7. Try to use Decision Trees and Support Vectors;
   
 ## Guidelines 
-To kick off start working with [Custom methods notebook](https://github.com/IrynaKovalchyk/Augmented-Analytics/blob/main/custom.ipynb) in a way to explore the data set and a main ideas standing by it. To improve your data cleaning skils try one by one tasks and hints given at the [Exercises](https://github.com/IrynaKovalchyk/Augmented-Analytics#exercises) section. Try out libraries used in the [Autoclean](https://github.com/IrynaKovalchyk/Augmented-Analytics/blob/main/Autoclean.ipynb) and [DataClean](https://github.com/IrynaKovalchyk/Augmented-Analytics/blob/main/DataClean.ipynb) notebooks to explore more opportunities for cleaning data in AA way.
+To kick off, explore the data set and the main ideas standing by it in [Custom methods notebook](https://github.com/IrynaKovalchyk/Augmented-Analytics/blob/main/custom.ipynb). To improve your data cleaning skills try one-by-one tasks and hints given in the [Exercises](https://github.com/IrynaKovalchyk/Augmented-Analytics#exercises) section. Try out libraries used in the [Autoclean](https://github.com/IrynaKovalchyk/Augmented-Analytics/blob/main/Autoclean.ipynb) and [DataClean](https://github.com/IrynaKovalchyk/Augmented-Analytics/blob/main/DataClean.ipynb) notebooks to explore more opportunities for cleaning data in the AA way.
 
 ## Useful links 
 ### Videos:
