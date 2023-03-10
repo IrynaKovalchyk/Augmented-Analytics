@@ -59,7 +59,7 @@ Exercises will be rated on 0-7 scale, where each number represents:
   7. Try to use  Decision Trees and Support Vectors
   
 ## Guidelines 
-
+To kick off start working with [Custom methods notebook](https://github.com/IrynaKovalchyk/Augmented-Analytics/blob/main/custom.ipynb) in a way to explore the data set and a main ideas standing by it. To improve your data cleaning skils try one by one tasks and hints given at the [Exercises](https://github.com/IrynaKovalchyk/Augmented-Analytics#exercises) section. Try out libraries used in the [Autoclean](https://github.com/IrynaKovalchyk/Augmented-Analytics/blob/main/Autoclean.ipynb) and [DataClean](https://github.com/IrynaKovalchyk/Augmented-Analytics/blob/main/DataClean.ipynb) notebooks to explore more opportunities for cleaning data in AA way.
 
 ## Useful links 
 ### Videos:
