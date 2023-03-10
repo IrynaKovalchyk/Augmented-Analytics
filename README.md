@@ -4,7 +4,7 @@ Breaking down Augmented Analytics(AA) methodology on example of the data cleanin
 To make yourself more familiar with the topic, before going into exercises and/or modifying code on the notebooks, check out the summary up [presentation](https://github.com/IrynaKovalchyk/Augmented-Analytics/blob/main/Augmented%20analysis.pdf)
 
 There are 3 notebooks that you can manipulate and work with. They're different, also, it'd be needed to approach them differently. All of them start with a brief description and plan of what is going to be done to each notebook.
-1. [Custom methods notebook](https://github.com/IrynaKovalchyk/Augmented-Analytics/blob/main/custom.ipynb)has a lot of potential for changes, modification, and improvement. The main idea of it was to create an example of the AA approach on the various level of coding, starting from standard Python functions, following up with the ideologically ML approaches, and at the end with actual one-liners for ML methods. 
+1. [Custom methods notebook](https://github.com/IrynaKovalchyk/Augmented-Analytics/blob/main/custom.ipynb) has a lot of potential for changes, modification, and improvement. The main idea of it was to create an example of the AA approach on the various level of coding, starting from standard Python functions, following up with the ideologically ML approaches, and at the end with actual one-liners for ML methods. 
 2. The notebook based on [Autoclean](https://github.com/IrynaKovalchyk/Augmented-Analytics/blob/main/Autoclean.ipynb) library is a playground for approaching the same data as in [Custom methods notebook](https://github.com/IrynaKovalchyk/Augmented-Analytics/blob/main/custom.ipynb) with the help of it. Showing use cases of its methods in the AA approach.
 3. The [DataClean](https://github.com/IrynaKovalchyk/Augmented-Analytics/blob/main/DataClean.ipynb) notebook is based on the same called library with the same aim as the [Autoclean notebook](https://github.com/IrynaKovalchyk/Augmented-Analytics/blob/main/Autoclean.ipynb) 
 
@@ -32,12 +32,30 @@ Exercises will be rated on 0-7 scale, where each number represents:
 **3-4 Scale.**</br>
   1. Clone the [repo](https://github.com/IrynaKovalchyk/Augmented-Analytics)</br>
   2. Run code of the notebook as well as get familiar with main strategies, which were used there </br>
-  3. Check ou the data source an chalnge to it 
+  3. Check out the data source and chalnge to it 
+  4. Descover more ML methods, for instance you can check them out at the [The top 10 ML algorithms you should know](https://medium.com/@techynilesh/the-top-10-machine-learning-algorithms-you-should-know-7c97222e08d2)
+  5. Try out [.loc() and .iloc() functions](https://sparkbyexamples.com/pandas/pandas-difference-between-loc-vs-iloc-in-dataframe/) to deal with missing data
+  6. Build dictionary based on 'neighbourhood', 'neighbourhood group', then try to find correlation between 'price' and 'neighbourhood'
+  7. How to handell missing data in 'host_identity_verified' ? For instance, make one more lable for missing data 
+  8. Handdel data types, special symbols
 
 **5-6 Scale.**</br>
+  1. Whata categories will be influenced by 'instant_bookable' ? What about 'cancellation_policy'
+  2. Transform 'last review' to the date type. What is the fresiest and the oldies review ? How it will correlate with the 'number of reviews'
+  3. Handdel missing data in 'last review', 'number of reviews'. Hint: sometimes in a way to normalization some of the data might be droped, however it's not a case all the time 
+  4. Get insides from 'number of reviews',	'last review',	'reviews per month',	'review rate number'
+  5. Try to use Linear Regression for cleaning some data  
+  6. Try to use Logistic Regression for cleaning some data 
+  7. Comper what worrks better on the data set Linear Regression or Logistic Regression
 **7 Scale.**</br>
   1. Implement best paracies of code
-  2. Geo data. Use API to recreate missing data
+  2. Geo data. Handelling 'lat','long' missing data by useing API 
+  3. Use NLP to parth key words from 'house_rules'
+  4. What is the most common key word and the most rare one ?
+  5. Is it possible to handell 'house_rules' by usige of the most common/rare key words ?
+  6. Clusterize data set 
+  7. Try to use  Decision Trees and Support Vectors
+  
 ## Guidelines 
 
 
